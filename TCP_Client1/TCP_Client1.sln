@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP_Client1", "TCP_Client1.vcxproj", "{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}.Debug|x64.ActiveCfg = Debug|x64
+		{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}.Debug|x64.Build.0 = Debug|x64
+		{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}.Debug|x86.Build.0 = Debug|Win32
+		{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}.Release|x64.ActiveCfg = Release|x64
+		{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}.Release|x64.Build.0 = Release|x64
+		{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}.Release|x86.ActiveCfg = Release|Win32
+		{B2AAF3F1-DFDA-4ADF-818F-7DBD291C0597}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F65A7526-0FB9-4D81-83C9-5D31F4DDB27B}
+	EndGlobalSection
+EndGlobal
